@@ -1,0 +1,28 @@
+{
+	"name": "rbx-filters",
+	"version": "1.0.0",
+	"description": "Convenient filter functions for roblox-ts functional programming",
+	"main": "out/main.lua",
+	"types": "out/main.d.ts",
+	"dependencies": {
+		"rbx-types": "^1.0.187"
+	},
+	"peerDependencies": {
+		"rbx-types": "^1.0.187"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/osyrisrblx/rbx-filters.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/osyrisrblx/rbx-filters/issues"
+	},
+	"homepage": "https://github.com/osyrisrblx/rbx-filters#readme"
+}
