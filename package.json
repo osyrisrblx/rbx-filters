@@ -4,13 +4,13 @@
 	"description": "Convenient filter functions for roblox-ts functional programming",
 	"main": "out/main.lua",
 	"types": "out/main.d.ts",
-	"dependencies": {
+	"devDependencies": {
 		"rbx-types": "^1.0.187"
 	},
 	"peerDependencies": {
 		"rbx-types": "^1.0.187"
 	},
-	"devDependencies": {},
+	"dependencies": {},
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
