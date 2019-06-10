@@ -1,15 +1,14 @@
 {
 	"name": "@rbxts/filters",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Convenient filter functions for roblox-ts functional programming",
 	"main": "out/main.lua",
 	"types": "out/main.d.ts",
-	"devDependencies": {},
 	"peerDependencies": {
 		"rbx-types": "^1.0.187"
 	},
-	"dependencies": {
-		"@rbxts/types": "^1.0.198"
+	"devDependencies": {
+		"@rbxts/types": "^1.0.206"
 	},
 	"repository": {
 		"type": "git",

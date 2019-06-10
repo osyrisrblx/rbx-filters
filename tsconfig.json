@@ -1,7 +1,7 @@
 {
 	"compilerOptions": {
 		"allowSyntheticDefaultImports": true,
-		"isolatedModules": true,
+		"isolatedModules": false,
 		"downlevelIteration": true,
 		"module": "commonjs",
 		"noLib": true,
@@ -11,7 +11,7 @@
 		"rootDir": "src",
 		"outDir": "out",
 		"baseUrl": "src",
-		"declaration": false,
+		"declaration": true,
 		"jsx": "react",
 		"jsxFactory": "Roact.createElement"
 	}
